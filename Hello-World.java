@@ -3,6 +3,11 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        String helloworld = addition("Hello ", "World!");
+        System.out.println(helloworld);
+    }
+
+    public static String addition (String x, String y){
+        return x+y;
     }
 }
