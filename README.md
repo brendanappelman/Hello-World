@@ -1,2 +1,2 @@
 # Hello-World
-My first GitHub project. I am trying to navigate GitHub's bootcamp, to further my knowledge about the utility and to learn something new. 
+A very simple "Hello World" Java application that calls a function to concatenate a string.
